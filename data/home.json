@@ -1,0 +1,133 @@
+{
+  "activity": {
+    "name": "限时热门回收",
+    "goodsList": "16976,17185,16977,11916,17184",
+    "Id": 1,
+    "endTime": "2019-08-06",
+    "products": [
+      {
+        "goodsId": 17185,
+        "catId": 1,
+        "goodsName": "华为 Mate20 Pro",
+        "originalImg": "https://image.suhuishou.com/attached/image/20181021/20181021171136_10541.jpg",
+        "shopPrice": 4560
+      },
+      {
+        "goodsId": 17184,
+        "catId": 1,
+        "goodsName": "华为 Mate20",
+        "originalImg": "https://image.suhuishou.com/attached/image/20181021/20181021170908_59599.jpg",
+        "shopPrice": 2460
+      },
+      {
+        "goodsId": 16976,
+        "catId": 1,
+        "goodsName": "苹果 iPhoneXs Max",
+        "originalImg": "https://image.suhuishou.com/attached/image/20181120/20181120171828_87073.jpg",
+        "shopPrice": 8100
+      },
+      {
+        "goodsId": 16977,
+        "catId": 1,
+        "goodsName": "苹果 iPhoneXR",
+        "originalImg": "https://image.suhuishou.com/attached/image/20181117/20181117155449_31970.jpg",
+        "shopPrice": 4900
+      },
+      {
+        "goodsId": 11916,
+        "catId": 1,
+        "goodsName": "苹果iPhone X",
+        "originalImg": "https://images.suhuishou.com/FnukpceW5NmG8d_4WWs498kAzgFo",
+        "shopPrice": 5300
+      }
+    ]
+  },
+  "banner": [
+    {
+      "positionId": 3,
+      "adName": "线下门店移动端banner",
+      "adLink": "https://activity.suhuishou.com/store",
+      "endTime": 1591344000,
+      "adCode": "https://image.suhuishou.com/attached/image/20190722/20190722091951_15814.jpg",
+      "id": 211
+    },
+    {
+      "positionId": 3,
+      "adName": "移动-旧数码一秒变现（首页）",
+      "adLink": "",
+      "endTime": 1584086400,
+      "adCode": "https://image.suhuishou.com/attached/image/20190315/20190315152620_97175.jpg",
+      "id": 186
+    },
+    {
+      "positionId": 3,
+      "adName": "芝麻信用回收-wap",
+      "adLink": "",
+      "endTime": 1596355200,
+      "adCode": "https://image.suhuishou.com/attached/image/20190709/20190709091743_24936.jpg",
+      "id": 238
+    }
+  ],
+  "article": [
+    {
+      "articleId": 2855,
+      "catId": 10,
+      "title": "速回收联合广西移动，手机回收以旧换新",
+      "addTime": 1566426120,
+      "articleImg": "https://image.suhuishou.com/attached/image/20190822/20190822143405_93116.jpg",
+      "link": "",
+      "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 近日，速回收宣布与广西移动和掌桂 携手，正式开启“以旧换新”合作，通过回收废旧及闲置数码产品的方式，用更低的价格更换全新的手机笔记本等数码产品。速回收与广西移动和掌桂 共同为参与“以旧换新”活动的用户送上多重好礼，鼓励用户环保换新，避免废旧及闲置电子数码产品流入环境造成污染。<br />\r\n<div align=\"center\">\r\n\t<img src=\"https://image.suhuishou.com/attached/image/20190822/20190822143106_38377.jpg\" alt=\"速回收联合广西移动，手机回收以旧换新\" title=\"速回收联合广西移动，手机回收以旧换新\" width=\"665\" height=\"665\" align=\"\" /><br />\r\n</div>\r\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 即日起，广大用户可通过广西移动和掌桂APP内置的生活商城，参与由速回收提供回收数码产品服务的“以旧换新”活动：对废旧及闲置手机数码产品进行估价，并成功下单完成回收流程后，用户在获得回收款的同时，还可获得由速回收提供的最高价值300元的新机换新补贴券。回收款将在回收完成后发放至用户的收款账户，换新优惠券发放至用户的速回收平台账户。<br />\r\n<br />\r\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本次活动为用户设置了多种额度的换新补贴券，针对不同回收价格，可获得相对应的换新补贴券，回收任意废旧电子数码产品即可参与活动，并且获得相对应的换新补贴券。换新补贴券有效期为1个月，且不可叠加、转增与兑现，具体细则可参照广西移动和掌桂生活商城。<br />\r\n<br />\r\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本次“以旧换新”活动支持目前所有主流品牌旗下绝大多数电子数码产品的回收服务，速回收曾总表示，针对所有参与回收的产品将统一进行深度信息清理，保障用户在回收过程中的隐私安全。速回收和广西移动倡导用户充分利用闲置及废旧电子数码产品的剩余价值，用更低的价格体验全新的消费方式。<br />\r\n<div align=\"center\">\r\n\t<img src=\"https://image.suhuishou.com/attached/image/20190822/20190822143142_45926.jpg\" alt=\"速回收联合广西移动，手机回收以旧换新\" title=\"速回收联合广西移动，手机回收以旧换新\" width=\"600\" height=\"172\" align=\"\" /><br />\r\n</div>\r\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;关于速回收公司<br />\r\n<br />\r\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://www.suhuishou.com\" target=\"_blank\">速回收</a>，国内专业的二手<a>手机数码回收</a>平台，通过互联网技术和电子商务物流系统针对性回收闲置手机、平板电脑、笔记本电脑、数码相机等数码产品，为用户实现方便快捷的变现，并将回收的物品用于公益或其他用途，使资源得到合理利用，助力环保事业。现今业务覆盖全国100多个城市，为多家运营商营业厅“以旧换新”的业务合作伙伴。",
+      "articleDesc": "近日，速回收宣布与广西移动和掌桂 携手，正式开启“以旧换新”合作，通过回收废旧及闲置数码产品的方式，用更低的价格更换全新的手机笔记本等数码产品。"
+    },
+    {
+      "articleId": 2854,
+      "catId": 10,
+      "title": "一抹亮丽而独特的风景——高铁列车内的速回收",
+      "addTime": 1566254460,
+      "articleImg": "https://image.suhuishou.com/attached/image/20190820/20190820144559_57443.jpg",
+      "link": "",
+      "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 如果你近期乘坐高铁，可能会邂逅一抹亮丽而独特的风景——那就是高铁列车内随处可见的速回收的广告！<br />\r\n<div align=\"center\">\r\n\t<img src=\"https://image.suhuishou.com/attached/image/20190820/20190820144219_48180.jpg\" alt=\"一抹亮丽而独特的风景——高铁列车内的速回收\" title=\"一抹亮丽而独特的风景——高铁列车内的速回收\" width=\"600\" height=\"338\" align=\"\" /><br />\r\n</div>\r\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;高铁的乘客是中高端人群，乘客具有高学历、高收入和高消费的特点，是速回收品牌的潜在客户群体。高铁列车在车内形成一个巨大的“场”，当旅客朋友们进入一个这样有着众多的速回收元素的空间场内，与速回收同行一段旅程，同时留下一段深刻的记忆。<br />\r\n<br />\r\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;高铁广告是非常“高大上”的媒体平台，如果不是“高帅富”的品牌将很难进入。目前只有蒙牛、格力源等全国知名品牌才上线过高铁广告。速回收高铁列车广告可以快速让速回收品牌在全国范围内的知名度和影响力传播开来，同时更有利于全国各区域合作伙伴开展市场活动。<br />\r\n<div align=\"center\">\r\n\t<img src=\"https://image.suhuishou.com/attached/image/20190820/20190820144254_92172.jpg\" alt=\"一抹亮丽而独特的风景——高铁列车内的速回收\" title=\"一抹亮丽而独特的风景——高铁列车内的速回收\" width=\"600\" height=\"338\" align=\"\" /><br />\r\n</div>\r\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;特别是高铁沿线周边的速回收伙伴，可以借着这波广告的浪潮进行门店销售和口碑传播推广，正如广告语“旧手机轻松卖”所表达的，速回收将成为广大用户心目中旧手机最佳去处的代名词，以后只要手机旧了就会想到速回收“旧手机轻松卖”。这对我们的消费者回收观念和品牌推广都是一次全面的提升，所以借用小米创始人雷布斯的一句话“风已经来了，只有毫不犹豫去抓住机会的人才能成功”。<br />\r\n<br />\r\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 速回收选择在高铁人流量高度密集的地方投放广告，既彰显了速回收雄厚的品牌实力，也是速回收将自己置于公众视线之下，交给消费者来进行监督，这是速回收对自我品牌及产品服务优势的强大信心，此次高铁广告的投放，也预示着速回收将进一步走进消费者的生活中，为更多用户闲置手机提供闲置变现服务和品牌助力。<br />\r\n<div align=\"center\">\r\n\t<img src=\"https://image.suhuishou.com/attached/image/20190820/20190820144319_14973.jpg\" alt=\"一抹亮丽而独特的风景——高铁列车内的速回收\" title=\"一抹亮丽而独特的风景——高铁列车内的速回收\" width=\"700\" height=\"503\" align=\"\" /><br />\r\n</div>\r\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;速回收，国内专业的二手<a href=\"https://www.suhuishou.com\" target=\"_blank\">手机数码回收平台</a>，通过互联网技术和电子商务物流系统针对性回收闲置手机、平板电脑、笔记本电脑、数码相机等数码产品，为用户实现方便快捷的变现，并将回收的物品用于公益或其他用途，使资源得到合理利用，助力环保事业。现今业务覆盖全国100多个城市，为多家运营商营业厅“以旧换新”的业务合作伙伴。<br />\r\n<br />\r\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以高铁广告为载体，实现了与乘客零距离一对一接触，相信借助高铁广告的载体和契机，速回收将实现与高铁时代的全面接轨，有效提升品牌知名度及影响力，让品牌形象更加深入人心，推动速回收品牌步入更为快速的发展轨道!伴随着飞驰的高铁，会有越来越多人了解速回收，也会让速回收的品牌理念传达至每一个消费者，渗透到每一个家庭，实现实现与中国亿万家庭的互通与对话。<br />\r\n<br />\r\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;怎么样，看完有没有一种想坐高铁的冲动？额，如果哪天恰巧在旅途偶遇速回收，欢迎大家拍照与速速分享哦！",
+      "articleDesc": "如果你近期乘坐高铁，可能会邂逅一抹亮丽而独特的风景——那就是高铁列车内随处可见的速回收的广告！速回收选择在高铁人流量高度密集的地方投放广告，既彰显了速回收雄厚的品牌实力，也是速回收将自己置于公众视线之下，交给消费者来进行监督，这是速回收对自我品牌及产品服务优势的强大信心"
+    },
+    {
+      "articleId": 2853,
+      "catId": 10,
+      "title": "速回收 | 再下一城！速回收连城新天地店盛大开业！",
+      "addTime": 1565653740,
+      "articleImg": "https://image.suhuishou.com/attached/image/20190813/20190813164539_21741.jpg",
+      "link": "",
+      "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 作为速回收旗下线下数码回收门店，速回收在2019年加快了自己的开店速度，在3月杭州（雷德广场店）、杭州（宝龙城店）开业之后，速回收第三家线下数码回收店在深圳福田连城新天地开业，速回收开设线下数码回收自营店明显加快起来。<br />\r\n<div align=\"center\">\r\n\t<p>\r\n\t\t<img src=\"https://image.suhuishou.com/attached/image/20190813/20190813160148_44839.jpg\" alt=\"速回收 | 再下一城！速回收连城新天地店盛大开业！\" title=\"速回收 | 再下一城！速回收连城新天地店盛大开业！\" width=\"650\" height=\"366\" align=\"\" />\r\n\t</p>\r\n\t<p>\r\n\t\t<img src=\"https://image.suhuishou.com/attached/image/20190813/20190813160220_48171.jpg\" alt=\"速回收 | 再下一城！速回收连城新天地店盛大开业！\" title=\"速回收 | 再下一城！速回收连城新天地店盛大开业！\" width=\"665\" height=\"665\" align=\"\" />\r\n\t</p>\r\n</div>\r\n<p>\r\n\t&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;之前一直有深圳用户留言反馈说，速回收什么时候能在深圳开一家门店？今天小速速把深圳门店带来了。8月9日 <strong>速回收连城新天地店</strong>正式开业，<strong>地址位于深圳福田区连城新天地二期B区负一层中岛柜15号</strong>，深圳人在线下就可以直接旧手机换钱，现场估价、现场质检、现场收钱，全程用时不超过1分钟。速回收目前有线上估价免费邮寄、线下门店回收、<a href=\"https://www.suhuishou.com/\" target=\"_blank\">上门回收</a>三种回收模式。将线上线下打通，用户便可以选择最便捷<a href=\"https://www.suhuishou.com/\" target=\"_blank\">手机数码回收</a>的通道，获得自己想处理的二手产品的估价，并实现闲置3C产品的回收。\r\n</p>\r\n<p align=\"center\">\r\n\t<img src=\"https://image.suhuishou.com/attached/image/20190813/20190813163137_14665.jpg\" alt=\"速回收 | 再下一城！速回收连城新天地店盛大开业！\" title=\"速回收 | 再下一城！速回收连城新天地店盛大开业！\" width=\"665\" height=\"665\" align=\"\" />\r\n</p>\r\n<p align=\"center\">\r\n\t<img src=\"https://image.suhuishou.com/attached/image/20190813/20190813163155_52113.jpg\" alt=\"速回收 | 再下一城！速回收连城新天地店盛大开业！\" title=\"速回收 | 再下一城！速回收连城新天地店盛大开业！\" width=\"800\" height=\"575\" align=\"\" />\r\n</p>",
+      "articleDesc": "8月9日 速回收连城新天地店正式开业，地址位于深圳福田区连城新天地二期B区负一层中岛柜15号，深圳人在线下就可以直接旧手机换钱，现场估价、现场质检、现场收钱，全程用时不超过1分钟。"
+    },
+    {
+      "articleId": 2852,
+      "catId": 10,
+      "title": "手机回收这样做准没错！一份手机出售指南",
+      "addTime": 1565289720,
+      "articleImg": "https://image.suhuishou.com/attached/image/20190809/20190809104631_75514.jpg",
+      "link": "",
+      "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 我国生活水平的提高，现在基本上都是人手一部甚至多部智能手机，但因为智能手机更新迭代的速度越来越快，家中闲置的二手手机也是越来越多。工信部向中国电信、中国移动、中国联通、中国广电发放5G商用牌照，这标志着我国的移动网络正式迈入5G时代。<br />\r\n<br />\r\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;随着5G的到来，4G手机将面临着被淘汰的命运，4G手机也将跟随着5G的普及而不断贬值，闲置的的二手手机再不出手，相当于白白浪费了。与其白白浪费，倒不如拿来出售换点小钱，今天，速速就给大家准备了一份手机出售指南。<br />\r\n<div align=\"center\">\r\n\t<img src=\"https://image.suhuishou.com/attached/image/20190809/20190809104409_83139.jpg\" alt=\"手机回收这样做准没错！一份手机出售指南\" title=\"手机回收这样做准没错！一份手机出售指南\" width=\"600\" height=\"279\" align=\"\" /><br />\r\n</div>\r\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;手机回收渠道无非就两种，一种是企业回收模式，用过线上线下评估回收，无售后之忧。相对而言，企业回收价格会更高，无中间商赚差价，交易速度快。<br />\r\n<div align=\"center\">\r\n\t<img src=\"https://image.suhuishou.com/attached/image/20190809/20190809104509_18038.jpg\" alt=\"手机回收这样做准没错！一份手机出售指南\" title=\"手机回收这样做准没错！一份手机出售指南\" width=\"600\" height=\"338\" align=\"\" /><br />\r\n</div>\r\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;速回收，国内专业的二手手机数码回收平台，通过互联网技术和电子商务物流系统针对性回收闲置手机、平板电脑、笔记本电脑、数码相机等数码产品，为用户实现方便快捷的变现，并将回收的物品用于公益或其他用途，使资源得到合理利用，助力环保事业。<br />\r\n<div align=\"center\">\r\n\t<img src=\"https://image.suhuishou.com/attached/image/20190809/20190809104531_42935.jpg\" alt=\"手机回收这样做准没错！一份手机出售指南\" title=\"手机回收这样做准没错！一份手机出售指南\" width=\"600\" height=\"338\" align=\"\" /><br />\r\n</div>\r\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;另外速回收与芝麻信用的合作，一方面，信用回收可以帮助用户通过芝麻信用平台的信用担保服务，预先获得产品回收款，真正实现“先拿钱、后回收”。另一方面，用户在完成信用回收的同时，将有助于信用积累，在日后芝麻信用所搭建的信用生活中体验更多便利的服务。未来，速回收将会在全国重要商场和小区开通线下门店。",
+      "articleDesc": "随着5G的到来，4G手机将面临着被淘汰的命运，4G手机也将跟随着5G的普及而不断贬值，闲置的的二手手机再不出手，相当于白白浪费了。与其白白浪费，倒不如拿来出售换点小钱，今天，速速就给大家准备了一份手机出售指南。"
+    },
+    {
+      "articleId": 2851,
+      "catId": 10,
+      "title": "一加7 Pro 5G版入网 5G大家庭又添“新丁”",
+      "addTime": 1565136720,
+      "articleImg": "https://image.suhuishou.com/attached/image/20190807/20190807162746_27637.jpg",
+      "link": "",
+      "content": "<p>\r\n\t&nbsp;&nbsp;&nbsp;&nbsp; <strong>速回收网数码讯（文∕小速速）</strong>进入8月份，5G手机陆续登场。中兴AXON 10 Pro5G版率先开卖，华为Mate 20 X5G已经上架，8月16开卖。iQOO Pro、小米5G旗舰、一加5G手机也即将亮相。\r\n</p>\r\n<p>\r\n\t&nbsp;&nbsp;&nbsp;&nbsp; 8月7日消息，一加7 Pro5G版通过工信部入网许可，这是国行首款采用90Hz QHD+屏的5G手机。和4G版对比，一加7 Pro5G版背部多了5G标识，目前尚不确定其搭载的是骁龙855还是骁龙855 Plus旗舰平台。\r\n</p>\r\n<p align=\"center\">\r\n\t<img src=\"https://image.suhuishou.com/attached/image/20190807/20190807161925_11301.jpg\" alt=\"一加7 Pro 5G版入网 5G大家庭又添“新丁”\" title=\"一加7 Pro 5G版入网 5G大家庭又添“新丁”\" width=\"600\" height=\"400\" align=\"\" />\r\n</p>\r\n<p>\r\n\t&nbsp;&nbsp;&nbsp;&nbsp; 核心配置上，一加7 Pro5G版与4G版规格基本一致。它采用90Hz QHD+ Fluid AMOLED流体屏，这是三星显示与一加合作呈现的首款90Hz屏幕。官方强调，“90Hz”代表屏幕刷新率，赫兹的数值越高，我们看到的屏幕就越流畅、自然。\r\n</p>\r\n<p align=\"center\">\r\n\t<img src=\"https://image.suhuishou.com/attached/image/20190807/20190807162051_46138.jpg\" alt=\"一加7 Pro 5G版入网 5G大家庭又添“新丁”\" title=\"一加7 Pro 5G版入网 5G大家庭又添“新丁”\" width=\"640\" height=\"568\" align=\"\" />\r\n</p>\r\n<p>\r\n\t&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 而且一加7 Pro5G版采用6.67英寸全面屏，分辨率为3120×1440，前置1600万像素，后置4800万+800万+1600万三摄组合，电池容量为4000mAh。一加创始人兼首席执行官刘作虎表示，5G会颠覆整个行业，过去4G时代主要解决人与人、人与资讯的快速连接，而未来5G时代，现实世界将数据化，实现人与物、物与物之间的连接，智能手机能更好地服务于人的需求。\r\n</p>\r\n<p align=\"center\">\r\n\t<img src=\"https://image.suhuishou.com/attached/image/20190807/20190807162208_15284.jpg\" alt=\"一加7 Pro 5G版入网 5G大家庭又添“新丁”\" title=\"一加7 Pro 5G版入网 5G大家庭又添“新丁”\" width=\"600\" height=\"338\" align=\"\" />\r\n</p>\r\n<p>\r\n\t&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 价格方面，一加7 Pro 5G版仅提供了8GB+256GB这一种存储组合，结合其普通版的售价来看，5G版最终的售价应该会超过5000元人民币。\r\n</p>\r\n<br />",
+      "articleDesc": "8月7日消息，一加7 Pro5G版通过工信部入网许可，这是国行首款采用90Hz QHD+屏的5G手机。和4G版对比，一加7 Pro5G版背部多了5G标识，目前尚不确定其搭载的是骁龙855还是骁龙855 Plus旗舰平台。"
+    },
+    {
+      "articleId": 2849,
+      "catId": 10,
+      "title": "三摄千元机vivo Z5发布 目测又将成为爆款",
+      "addTime": 1564600140,
+      "articleImg": "https://image.suhuishou.com/attached/image/20190801/20190801142445_15274.jpg",
+      "link": "",
+      "content": "&nbsp;&nbsp;&nbsp;&nbsp;<strong>&nbsp;</strong><span style=\"color:#888888;font-family:微软雅黑, sans-serif;font-size:14.4px;font-style:normal;font-weight:400;background-color:#FFFFFF;\"></span><strong>速回收网数码讯（文∕小速速）</strong>vivo实在是这个夏天最生猛的手机厂商之一。充满电用三天的vivo Z5x，性价比最高的游戏手机iQoo Neo纷至沓来。趁着7月最后一天，vivo又发布了一款三摄新机vivo Z5，主打性价比，只卖1598元起。<br />\r\n<div align=\"center\">\r\n\t<img src=\"https://image.suhuishou.com/attached/image/20190801/20190801140134_40039.jpg\" alt=\"三摄千元机vivo Z5发布 目测又将成为爆款\" title=\"三摄千元机vivo Z5发布 目测又将成为爆款\" width=\"600\" height=\"450\" align=\"\" /><br />\r\n</div>\r\n&nbsp;&nbsp;&nbsp;&nbsp; vivo Z5又是一台没有明显短板的水桶机，后置4800万像素超广角AI三摄（4800像素IMX582主摄+800万像素超广角摄像头+景深摄像头），前置3200万像素摄像头，超出预期的满足了这个价位段用户的拍照需求。加上4500mAh电池和22.5W vivo FlashCharge闪充长续航组合，可在30分钟充至50%，续航方面也表现的毫无压力。<br />\r\n<div align=\"center\">\r\n\t<img src=\"https://image.suhuishou.com/attached/image/20190801/20190801142237_51688.jpg\" alt=\"三摄千元机vivo Z5发布 目测又将成为爆款\" title=\"三摄千元机vivo Z5发布 目测又将成为爆款\" width=\"600\" height=\"830\" align=\"\" /><br />\r\n</div>\r\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 同时，vivo Z5通过对内部结构的优化，将整机重量控制在189g，机身厚度控制在8.13mm。vivo还与网易游戏达成深度合作，vivo Z5将作为《梦幻西游》手游2019全民PK争霸赛官方比赛用机。<br />\r\n<div align=\"center\">\r\n\t<img src=\"https://image.suhuishou.com/attached/image/20190801/20190801142309_22587.jpg\" alt=\"三摄千元机vivo Z5发布 目测又将成为爆款\" title=\"三摄千元机vivo Z5发布 目测又将成为爆款\" width=\"600\" height=\"450\" align=\"\" /><br />\r\n</div>\r\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 外观方面，无论是正面还是背面，都跟iQoo Neo十分相似，包括6.38英寸Super AMOLED水滴屏幕和屏下指纹，新一代的屏幕指纹技术感应区域增大了100%，动态范围提升30%。只是在iQoo Neo用的是上代旗舰骁龙845，vivo Z5改用了骁龙712移动平台，玩《王者荣耀》已经足够了。<br />\r\n<div align=\"center\">\r\n\t<img src=\"https://image.suhuishou.com/attached/image/20190801/20190801142331_91105.jpg\" alt=\"三摄千元机vivo Z5发布 目测又将成为爆款\" title=\"三摄千元机vivo Z5发布 目测又将成为爆款\" width=\"600\" height=\"450\" align=\"\" /><br />\r\n</div>\r\n<p>\r\n\t&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; vivo Z5支持类DC调光和深色模式，息屏显示。一共有三种颜色：极光幻境，全息幻彩，竹林幻夜。它的发布，目测又将成为一个爆款。vivo Z5共有4个版本：6GB+64GB售价1598元、6GB+128GB售价1898元、6GB+256GB售价1998元、8GB+128GB售价2298元。\r\n</p>\r\n<p>\r\n\t&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 不知道各位看官大人们是怎么认为的呢？欢迎在评论区留言讨论。如有旧手机回收的小伙伴们请到速回收官网，专业高价回收变现，为您提供手机回收、二手手机回收、平板回收的线上回收平台，可以在二手手机交易网快速估价。\r\n</p>",
+      "articleDesc": "速回收网数码讯（文∕小速速）vivo实在是这个夏天最生猛的手机厂商之一。充满电用三天的vivo Z5x，性价比最高的游戏手机iQoo Neo纷至沓来。趁着7月最后一天，vivo又发布了一款三摄新机vivo Z5，主打性价比，只卖1598元起。"
+    }
+  ]
+}
