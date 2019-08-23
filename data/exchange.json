@@ -1,0 +1,166 @@
+{
+  "products": [
+    {
+      "id": 20623,
+      "title": "vivo Y93s ",
+      "price": "1398.00",
+      "img": "https:\/\/image.suhuishou.com\/attached\/image\/20190615\/20190615104859_71428.png",
+      "goods_number": 1,
+      "bonus_price": 150
+    },
+    {
+      "id": 20610,
+      "title": "vivo X27 8GB+256GB\u5927\u5185\u5b58 \u96f6\u754c\u5168\u9762\u5c4fAI\u4e09\u6444 \u79fb\u52a8\u8054\u901a\u7535\u4fe1\u5168\u7f51\u901a4G\u624b\u673a",
+      "price": "3298.00",
+      "img": "https:\/\/image.suhuishou.com\/attached\/image\/20190615\/20190615083946_47241.png",
+      "goods_number": 1,
+      "bonus_price": 500
+    },
+    {
+      "id": 20614,
+      "title": "\u5c0f\u7c73 \u7ea2\u7c737A 3+32GB \u5168\u7f51\u901a4G \u78e8\u7802\u9ed1",
+      "price": "799.00",
+      "img": "https:\/\/image.suhuishou.com\/attached\/image\/20190615\/20190615094414_97141.png",
+      "goods_number": 1,
+      "bonus_price": 50
+    },
+    {
+      "id": 20631,
+      "title": "\u5c0f\u7c739 4800\u4e07\u8d85\u5e7f\u89d2\u4e09\u6444 8GB+128GB \u9a81\u9f99855 \u5168\u7f51\u901a4G \u53cc\u5361\u53cc\u5f85 \u6c34\u6ef4\u5168\u9762\u5c4f\u62cd\u7167\u6e38\u620f\u667a\u80fd\u624b\u673a",
+      "price": "3299.00",
+      "img": "https:\/\/image.suhuishou.com\/attached\/image\/20190615\/20190615155411_44423.jpg",
+      "goods_number": 1,
+      "bonus_price": 260
+    },
+    {
+      "id": 20588,
+      "title": "OPPO A9 \u5168\u9762\u5c4f\u62cd\u7167\u624b\u673a 6GB+128GB \u5168\u7f51\u901a \u79fb\u52a8\u8054\u901a\u7535\u4fe14G \u53cc\u5361\u53cc\u5f85\u624b\u673a",
+      "price": "1699.00",
+      "img": "https:\/\/image.suhuishou.com\/attached\/image\/20190611\/20190611154025_25847.png",
+      "goods_number": 1,
+      "bonus_price": 226
+    },
+    {
+      "id": 20595,
+      "title": "OPPO Reno(6G+256G) \u5168\u9762\u5c4f\u62cd\u7167\u624b\u673a \u5168\u7f51\u901a\u53cc\u5361\u53cc\u5f85 ",
+      "price": "2799.00",
+      "img": "https:\/\/image.suhuishou.com\/attached\/image\/20190612\/20190612141646_20975.png",
+      "goods_number": 1,
+      "bonus_price": 350
+    },
+    {
+      "id": 20609,
+      "title": "OPPO Reno Z 4800\u4e07\u8d85\u6e05\u50cf\u7d20 \u8d85\u6e05\u591c\u666f2.0 \u5168\u7f51\u901a",
+      "price": "2299.00",
+      "img": "https:\/\/image.suhuishou.com\/attached\/image\/20190614\/20190614134406_94073.png",
+      "goods_number": 1,
+      "bonus_price": 350
+    },
+    {
+      "id": 20611,
+      "title": "vivo X27 8GB+128GB\u5927\u5185\u5b58 \u96f6\u754c\u5168\u9762\u5c4fAI\u4e09\u6444 \u79fb\u52a8\u8054\u901a\u7535\u4fe1\u5168\u7f51\u901a4G\u624b\u673a",
+      "price": "2998.00",
+      "img": "https:\/\/image.suhuishou.com\/attached\/image\/20190615\/20190615085002_35398.png",
+      "goods_number": 1,
+      "bonus_price": 400
+    }
+  ],
+  "laptop": [
+    {
+      "id": 20869,
+      "title": "\u60e0\u666e\uff08HP\uff09 \u5e7d\u7075Spectre X360 13\u7ffb\u8f6c\u89e6\u63a7\u8f7b\u8584\u7b14\u8bb0\u672c\u7535\u811113.3\u82f1\u5bf8\u3010\u4e09\u5e74\u4e0a\u95e8\u4fdd\u4fee\u3011 \u6807\u914d\u3010\u9ed1\u91d1\u9001\u7b14i5-8265u\/8G\/256G PCIE\u56fa\u6001\u3011FHD\u89e6\u63a7\u5c4f \u6307\u7eb9\u89e3\u9501 ",
+      "price": "9299.00",
+      "img": "https:\/\/image.suhuishou.com\/attached\/image\/20190719\/20190719171518_37541.png",
+      "goods_number": 1,
+      "bonus_price": 300
+    },
+    {
+      "id": 20868,
+      "title": "\u6234\u5c14DELLXPS13.3\u82f1\u5bf8\u82f1\u7279\u5c14\u9177\u777fi5\u8d85\u8f7b\u8584\u7a84\u8fb9\u6846\u7b14\u8bb0\u672c\u7535\u8111(i5-8250U 8G 256GPCIe IPS 72%\u9ad8\u8272\u57df \u80cc\u5149)\u94f6",
+      "price": "7699.00",
+      "img": "https:\/\/image.suhuishou.com\/attached\/image\/20190719\/20190719164039_80055.png",
+      "goods_number": 1,
+      "bonus_price": 50
+    },
+    {
+      "id": 20706,
+      "title": "\u534e\u7855(ASUS) \u7075\u8000S 2\u4ee3 30\u5468\u5e74\u7cbe\u9009\u673a\u578b 15.6\u82f1\u5bf8\u8f7b\u8584\u7b14\u8bb0\u672c\u7535\u8111(i5-8265U 8G 512GSSD MX150 IPS)\u7070(S5300) ",
+      "price": "5399.00",
+      "img": "https:\/\/image.suhuishou.com\/attached\/image\/20190622\/20190622162048_95425.png",
+      "goods_number": 1,
+      "bonus_price": 500
+    },
+    {
+      "id": 20703,
+      "title": "\u534e\u7855\uff08ASUS\uff09 A555QG 15.6\u82f1\u5bf8\u5546\u52a1\u529e\u516c\u672c\u5b66\u751f\u5a31\u4e50\u6e38\u620f\u624b\u63d0\u7b14\u8bb0\u672c\u7535\u8111 \u9ed1\u82723M\u739b\u96c5\u7eb9 A12-9700P\/4GB\/\u72ec\u663e\/256G SSD ",
+      "price": "4599.00",
+      "img": "https:\/\/image.suhuishou.com\/attached\/image\/20190622\/20190622160426_87499.png",
+      "goods_number": 1,
+      "bonus_price": 399
+    },
+    {
+      "id": 20702,
+      "title": "\u534e\u7855\uff08ASUS\uff09\u987d\u77f3Y5100UB\u8f7b\u8584\u4fbf\u643a15.6\u82f1\u5bf8\u5b66\u751f\u5546\u52a1\u529e\u516c\u5a31\u4e50\u7b14\u8bb0\u672c\u624b\u63d0\u9ad8\u6e05\u5c4f\u7535\u8111 \u51b0\u6676\u94f6i5-8250U\/MX110 \u5b98\u914d4G\/1T\u673a\u68b0",
+      "price": "4599.00",
+      "img": "https:\/\/image.suhuishou.com\/attached\/image\/20190622\/20190622154400_25542.png",
+      "goods_number": 1,
+      "bonus_price": 350
+    },
+    {
+      "id": 20698,
+      "title": "\u534e\u7855\uff08ASUS\uff09\u987d\u77f3Y406UA\u8d85\u8584\u7b14\u8bb0\u672c\u7535\u811114\u82f1\u5bf8i5\u56db\u9762\u7a84\u8fb9\u6846\u8d85\u8f7b\u8584\u7b14\u8bb0\u672c\u7535\u8111IPS\u5c4f i5-8250U\/8G\/256G ",
+      "price": "4799.00",
+      "img": "https:\/\/image.suhuishou.com\/attached\/image\/20190622\/20190622144504_39132.png",
+      "goods_number": 1,
+      "bonus_price": 399
+    },
+    {
+      "id": 20683,
+      "title": "\u534e\u7855\uff08ASUS\uff09 S2\u4ee3S4300 14\u82f1\u5bf8\u4fbf\u643a\u5546\u52a1\u529e\u516c\u7b14\u8bb0\u672c\u7535\u8111 \u7070\u8272 i7-8550U\/8G\u5185\u5b58 1T+256G\u56fa\u6001 ",
+      "price": "5699.00",
+      "img": "https:\/\/image.suhuishou.com\/attached\/image\/20190621\/20190621171924_32693.png",
+      "goods_number": 1,
+      "bonus_price": 600
+    },
+    {
+      "id": 20682,
+      "title": "\u534e\u7855\u987d\u77f3(ASUS) \u7545\u73a9\u7248Y4000 14.0\u82f1\u5bf8\u7a84\u8fb9\u6846\u7b14\u8bb0\u672c\u7535\u8111(\u9177\u777fi3 4G 128GSSD+500G MX110 2G\u72ec\u663e)\u91d1\u8272",
+      "price": "3499.00",
+      "img": "https:\/\/image.suhuishou.com\/attached\/image\/20190621\/20190621155718_12668.png",
+      "goods_number": 1,
+      "bonus_price": 300
+    }
+  ],
+  "banners": [
+    {
+      "id": 227,
+      "name": "\u4ee5\u65e7\u6362\u65b0banner1-pc",
+      "code": "https:\/\/image.suhuishou.com\/attached\/image\/20190617\/20190617165340_92178.jpg",
+      "link": "",
+      "appid": ""
+    },
+    {
+      "id": 228,
+      "name": "banner2-pc",
+      "code": "https:\/\/image.suhuishou.com\/attached\/image\/20190617\/20190617172850_82548.jpg",
+      "link": "https:\/\/activity.suhuishou.com\/repcoldnew",
+      "appid": ""
+    }
+  ],
+  "mobilebanners": [
+    {
+      "id": 226,
+      "name": "\u4ee5\u65e7\u6362\u65b0banner1",
+      "code": "https:\/\/image.suhuishou.com\/attached\/image\/20190617\/20190617165236_86188.jpg",
+      "link": "",
+      "appid": ""
+    },
+    {
+      "id": 230,
+      "name": "banner2-wap",
+      "code": "https:\/\/image.suhuishou.com\/attached\/image\/20190617\/20190617173725_74676.jpg",
+      "link": "https:\/\/activity.suhuishou.com\/reoldnew",
+      "appid": ""
+    }
+  ]
+}
