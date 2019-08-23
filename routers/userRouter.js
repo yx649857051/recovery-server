@@ -108,4 +108,16 @@ router.get('/check_login', (req, res)=>{
         })
     }
 })
+
+// 退出登录
+router.get('/logout', (req, res)=>{
+    req.session.userInfo = null;
+    res.json({
+        code: 0,
+        message: 'ok'
+    });
+})
+
+
+
 module.exports = router;
