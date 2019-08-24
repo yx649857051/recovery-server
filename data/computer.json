@@ -1,0 +1,217 @@
+{
+  "total": 2,
+  "brands": [
+    {
+      "id": 1,
+      "logo": "https://images.suhuishou.com/FoLqQKEq7BXWUKBBw6LODCOVtfJW",
+      "name": "苹果"
+    },
+    {
+      "id": 2,
+      "logo": "https://images.suhuishou.com/FkqtBu_wNZfjOwpWwQBBq6TmV2oB",
+      "name": "三星"
+    },
+    {
+      "id": 128,
+      "logo": "https://image.suhuishou.com/attached/image/20190106/20190106180927_43940.jpg",
+      "name": "名龙堂"
+    },
+    {
+      "id": 122,
+      "logo": "https://images.suhuishou.com/FgpbqM7oFebHC4rmtdxgHNJbIa2d",
+      "name": "机械革命"
+    },
+    {
+      "id": 121,
+      "logo": "https://images.suhuishou.com/Fl-4yjz9QPQ1sjGPkFBW_HlHqgxE",
+      "name": "Alienware"
+    },
+    {
+      "id": 120,
+      "logo": "https://images.suhuishou.com/FiJdJDTm1mBc_odYiz_5BcntkCO_",
+      "name": "雷神"
+    },
+    {
+      "id": 119,
+      "logo": "https://images.suhuishou.com/FkWCScwGJ_Djadtt0raTgvWGLjL0",
+      "name": "msi微星"
+    },
+    {
+      "id": 117,
+      "logo": "https://images.suhuishou.com/FhiFpWy65ZTlBMd4l6JRt2Gzyjfq",
+      "name": "清华同方"
+    },
+    {
+      "id": 56,
+      "logo": "https://images.suhuishou.com/FvMquVrDPqS_-a8qv7fBOzCJVO1U",
+      "name": "惠普"
+    },
+    {
+      "id": 53,
+      "logo": "https://images.suhuishou.com/Fo8z2UvEtXu4TxZTGJQlgQvVuApz",
+      "name": "神舟"
+    },
+    {
+      "id": 52,
+      "logo": "https://images.suhuishou.com/Fi_aIoykPpY5RZ9KDA8xMrzNMq6G",
+      "name": "宏基"
+    },
+    {
+      "id": 51,
+      "logo": "https://images.suhuishou.com/FsDMvtRm0k3vx0Bm3gk_hzSoMvfj",
+      "name": "戴尔"
+    },
+    {
+      "id": 50,
+      "logo": "https://images.suhuishou.com/FkCCy3dpryJ-FhsJv5S_ky063ncy",
+      "name": "华硕"
+    },
+    {
+      "id": 9,
+      "logo": "https://images.suhuishou.com/Fhk8Vl3o9D_EtRg_h1rq_RTpgovh",
+      "name": "联想"
+    }
+  ],
+  "products": [
+    {
+      "goodsId": 19891,
+      "catId": 22,
+      "goodsName": "联想 AIO 300-23(i5 6200U/4GB/1TB/2G独显)",
+      "originalImg": "https://image.suhuishou.com/attached/image/20190316/20190316150518_32769.jpg",
+      "shopPrice": 1000
+    },
+    {
+      "goodsId": 19722,
+      "catId": 22,
+      "goodsName": "联想 AIO 520 致美一体机23.8英寸",
+      "originalImg": "https://image.suhuishou.com/attached/image/20190302/20190302165101_61673.jpg",
+      "shopPrice": 670
+    },
+    {
+      "goodsId": 19721,
+      "catId": 22,
+      "goodsName": "联想 扬天S5250 23英寸",
+      "originalImg": "https://image.suhuishou.com/attached/image/20190302/20190302164841_65904.jpg",
+      "shopPrice": 1330
+    },
+    {
+      "goodsId": 19720,
+      "catId": 22,
+      "goodsName": "联想 扬天A8000T",
+      "originalImg": "https://image.suhuishou.com/attached/image/20190302/20190302164554_20192.jpg",
+      "shopPrice": 2500
+    },
+    {
+      "goodsId": 19719,
+      "catId": 22,
+      "goodsName": "联想 （Lenovo） ThinkCentre E75Z 23英寸",
+      "originalImg": "https://image.suhuishou.com/attached/image/20190302/20190302164316_33375.jpg",
+      "shopPrice": 520
+    },
+    {
+      "goodsId": 19718,
+      "catId": 22,
+      "goodsName": "联想 扬天S800 24英寸(i7-4790/16G/1T+128ssd/2G独显)",
+      "originalImg": "https://image.suhuishou.com/attached/image/20190302/20190302162243_13063.jpg",
+      "shopPrice": 2130
+    },
+    {
+      "goodsId": 19717,
+      "catId": 22,
+      "goodsName": "联想 AIO 700（23英寸 G4400/4G/500G/2G黑色）",
+      "originalImg": "https://image.suhuishou.com/attached/image/20190302/20190302160838_64817.jpg",
+      "shopPrice": 670
+    },
+    {
+      "goodsId": 19716,
+      "catId": 22,
+      "goodsName": "联想 扬天S800 24英寸( i5-4460/8G/1T/2G独显/D刻/win7)",
+      "originalImg": "https://image.suhuishou.com/attached/image/20190302/20190302160639_20576.jpg",
+      "shopPrice": 1350
+    },
+    {
+      "goodsId": 19715,
+      "catId": 22,
+      "goodsName": "联想 AIO 510S/520S 23英寸( 金色i5-7200）",
+      "originalImg": "https://image.suhuishou.com/attached/image/20190302/20190302155855_70897.jpg",
+      "shopPrice": 1660
+    },
+    {
+      "goodsId": 19714,
+      "catId": 22,
+      "goodsName": "联想 AIO 700（21.5英寸/G3900/4G/1T/2G黑色）",
+      "originalImg": "https://image.suhuishou.com/attached/image/20190302/20190302154207_31923.jpg",
+      "shopPrice": 570
+    },
+    {
+      "goodsId": 19713,
+      "catId": 22,
+      "goodsName": "联想 S4150",
+      "originalImg": "https://image.suhuishou.com/attached/image/20190302/20190302153046_64340.jpg",
+      "shopPrice": 1250
+    },
+    {
+      "goodsId": 19712,
+      "catId": 22,
+      "goodsName": "联想 一体机电脑AIO 910",
+      "originalImg": "https://image.suhuishou.com/attached/image/20190302/20190302152826_58689.jpg",
+      "shopPrice": 1980
+    },
+    {
+      "goodsId": 19711,
+      "catId": 22,
+      "goodsName": "联想 AIO 520 致美一体机27英寸QHD屏",
+      "originalImg": "https://image.suhuishou.com/attached/image/20190302/20190302152046_45929.jpg",
+      "shopPrice": 3130
+    },
+    {
+      "goodsId": 19710,
+      "catId": 22,
+      "goodsName": "联想 （Lenovo）扬天A8000T i7",
+      "originalImg": "https://image.suhuishou.com/attached/image/20190302/20190302151250_67200.jpg",
+      "shopPrice": 1770
+    },
+    {
+      "goodsId": 19709,
+      "catId": 22,
+      "goodsName": "联想 （Lenovo）S5250",
+      "originalImg": "https://image.suhuishou.com/attached/image/20190302/20190302150643_41518.jpg",
+      "shopPrice": 1330
+    },
+    {
+      "goodsId": 19708,
+      "catId": 22,
+      "goodsName": "联想 （Lenovo）S4150",
+      "originalImg": "https://image.suhuishou.com/attached/image/20190302/20190302150107_50586.jpg",
+      "shopPrice": 1150
+    },
+    {
+      "goodsId": 19707,
+      "catId": 22,
+      "goodsName": "联想 （Lenovo）AIO 520 致美一体机23.8英寸",
+      "originalImg": "https://image.suhuishou.com/attached/image/20190302/20190302145130_26925.jpg",
+      "shopPrice": 2400
+    },
+    {
+      "goodsId": 19706,
+      "catId": 22,
+      "goodsName": "联想 新圆梦H520（G2030/4GB/500GB/集成）",
+      "originalImg": "https://image.suhuishou.com/attached/image/20190302/20190302144002_38746.jpg",
+      "shopPrice": 70
+    },
+    {
+      "goodsId": 19705,
+      "catId": 22,
+      "goodsName": "联想 新圆梦 H535（A8-6500/2GB独显）",
+      "originalImg": "https://image.suhuishou.com/attached/image/20190302/20190302143902_13140.jpg",
+      "shopPrice": 40
+    },
+    {
+      "goodsId": 19704,
+      "catId": 22,
+      "goodsName": "联想 新圆梦 H535（A8-6500/1GB独显）",
+      "originalImg": "https://image.suhuishou.com/attached/image/20190302/20190302143724_51815.jpg",
+      "shopPrice": 70
+    }
+  ]
+}

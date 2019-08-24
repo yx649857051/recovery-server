@@ -1,5 +1,5 @@
 {
-  "total": 224,
+  "total": 2,
   "brands": [
     {
       "id": 2,
@@ -77,5 +77,146 @@
       "name": "索尼"
     }
   ],
-  "products": []
+  "products": [
+    {
+      "goodsId": 21017,
+      "catId": 9,
+      "goodsName": "索尼A7RIV 机身",
+      "originalImg": "https://image.suhuishou.com/attached/image/20190810/20190810152427_21454.jpg",
+      "shopPrice": 15000
+    },
+    {
+      "goodsId": 21016,
+      "catId": 9,
+      "goodsName": "索尼A7RIII 机身",
+      "originalImg": "https://image.suhuishou.com/attached/image/20190810/20190810151603_12116.jpg",
+      "shopPrice": 12220
+    },
+    {
+      "goodsId": 21015,
+      "catId": 9,
+      "goodsName": "索尼RX100 VII",
+      "originalImg": "https://image.suhuishou.com/attached/image/20190810/20190810150111_28819.jpg",
+      "shopPrice": 5750
+    },
+    {
+      "goodsId": 20108,
+      "catId": 9,
+      "goodsName": "尼康 D5300 机身",
+      "originalImg": "https://image.suhuishou.com/attached/image/20190422/20190422160137_70900.jpg",
+      "shopPrice": 1300
+    },
+    {
+      "goodsId": 19935,
+      "catId": 9,
+      "goodsName": "索尼RX100 VI",
+      "originalImg": "https://image.suhuishou.com/attached/image/20190322/20190322093457_25870.jpg",
+      "shopPrice": 4700
+    },
+    {
+      "goodsId": 17931,
+      "catId": 9,
+      "goodsName": "尼康 D3500",
+      "originalImg": "https://image.suhuishou.com/attached/image/20181209/20181209172752_58602.jpg",
+      "shopPrice": 1000
+    },
+    {
+      "goodsId": 17930,
+      "catId": 9,
+      "goodsName": "佳能EOS M50 机身",
+      "originalImg": "https://image.suhuishou.com/attached/image/20181209/20181209161303_78762.jpg",
+      "shopPrice": 2300
+    },
+    {
+      "goodsId": 15915,
+      "catId": 9,
+      "goodsName": "佳能 3000D 机身",
+      "originalImg": "https://image.suhuishou.com/attached/image/20181019/20181019154834_54853.jpg",
+      "shopPrice": 780
+    },
+    {
+      "goodsId": 15914,
+      "catId": 9,
+      "goodsName": "佳能 1500D 机身",
+      "originalImg": "https://image.suhuishou.com/attached/image/20181018/20181018151119_27159.jpg",
+      "shopPrice": 1100
+    },
+    {
+      "goodsId": 14777,
+      "catId": 9,
+      "goodsName": "阿尔帕 12 STC 机身",
+      "originalImg": "https://image.suhuishou.com/attached/image/20181015/20181015152556_96270.jpg",
+      "shopPrice": 4600
+    },
+    {
+      "goodsId": 14747,
+      "catId": 9,
+      "goodsName": "尼康D750 机身",
+      "originalImg": "https://image.suhuishou.com/attached/image/20181016/20181016100804_65762.jpg",
+      "shopPrice": 5000
+    },
+    {
+      "goodsId": 14495,
+      "catId": 9,
+      "goodsName": "宾得 645D(配55mm镜头)",
+      "originalImg": "https://image.suhuishou.com/attached/image/20181018/20181018155951_21103.jpg",
+      "shopPrice": 9000
+    },
+    {
+      "goodsId": 14494,
+      "catId": 9,
+      "goodsName": "宾得KP",
+      "originalImg": "https://image.suhuishou.com/attached/image/20171213/20171213133800_23440.jpg",
+      "shopPrice": 2100
+    },
+    {
+      "goodsId": 14456,
+      "catId": 9,
+      "goodsName": "徕卡S(Type 007)",
+      "originalImg": "https://image.suhuishou.com/attached/image/20171212/20171212152550_36760.jpg",
+      "shopPrice": 56800
+    },
+    {
+      "goodsId": 14455,
+      "catId": 9,
+      "goodsName": "徕卡M Edition 100套装版",
+      "originalImg": "https://image.suhuishou.com/attached/image/20171212/20171212152145_20130.jpg",
+      "shopPrice": 88888
+    },
+    {
+      "goodsId": 14441,
+      "catId": 9,
+      "goodsName": "索尼A5000 （16-55mm）",
+      "originalImg": "https://image.suhuishou.com/attached/image/20171211/20171211145752_99855.jpg",
+      "shopPrice": 900
+    },
+    {
+      "goodsId": 14437,
+      "catId": 9,
+      "goodsName": "索尼 A6500",
+      "originalImg": "http://pic.suhuishou.cc/image/20171211/20171211141528_39782.jpg",
+      "shopPrice": 4650
+    },
+    {
+      "goodsId": 14436,
+      "catId": 9,
+      "goodsName": "索尼微单TM a7",
+      "originalImg": "https://image.suhuishou.com/attached/image/20171211/20171211141128_38694.jpg",
+      "shopPrice": 2100
+    },
+    {
+      "goodsId": 14401,
+      "catId": 9,
+      "goodsName": "索尼RX10 IV",
+      "originalImg": "http://pic.suhuishou.cc/image/20171211/20171211095959_89533.jpg",
+      "shopPrice": 6650
+    },
+    {
+      "goodsId": 11693,
+      "catId": 9,
+      "goodsName": "宾得K1",
+      "originalImg": "https://image.suhuishou.com/attached/image/20181016/20181016142647_29340.jpg",
+      "shopPrice": 3500
+    }
+  ]
 }
