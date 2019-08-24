@@ -1,0 +1,292 @@
+{
+  "total": 2,
+  "brands": [
+    {
+      "id": 1,
+      "logo": "https://images.suhuishou.com/FoLqQKEq7BXWUKBBw6LODCOVtfJW",
+      "name": "苹果"
+    },
+    {
+      "id": 2,
+      "logo": "https://images.suhuishou.com/FkqtBu_wNZfjOwpWwQBBq6TmV2oB",
+      "name": "三星"
+    },
+    {
+      "id": 6,
+      "logo": "https://images.suhuishou.com/FgOauMYotwGKN7h8o8vmnPNzlIeI",
+      "name": "华为"
+    },
+    {
+      "id": 11,
+      "logo": "https://images.suhuishou.com/Fgh_KzPOJaSzfqTSfC0zcoIUAsIA",
+      "name": "vivo"
+    },
+    {
+      "id": 13,
+      "logo": "https://images.suhuishou.com/FvvE6wylFeBF8UeC_DYDdNowkLzG",
+      "name": "oppo"
+    },
+    {
+      "id": 10,
+      "logo": "https://images.suhuishou.com/FixgLeq7mK5DlNrNjpNnNMIYG1TL",
+      "name": "魅族"
+    },
+    {
+      "id": 3,
+      "logo": "https://images.suhuishou.com/FriwMv0Si_y0acN1HtFfAImiqiwa",
+      "name": "小米"
+    },
+    {
+      "id": 18,
+      "logo": "https://images.suhuishou.com/FrOhMaR8EezW2FSDBr89ZZ_IZUNq",
+      "name": "金立"
+    },
+    {
+      "id": 125,
+      "logo": "https://images.suhuishou.com/FkVgBWQgtqp204x0VHLBorFImpzI",
+      "name": "努比亚"
+    },
+    {
+      "id": 124,
+      "logo": "https://images.suhuishou.com/FgzSLivx5Kh5nu-Giun4L6Kz2E4J",
+      "name": "360"
+    },
+    {
+      "id": 50,
+      "logo": "https://images.suhuishou.com/FkCCy3dpryJ-FhsJv5S_ky063ncy",
+      "name": "华硕"
+    },
+    {
+      "id": 40,
+      "logo": "https://images.suhuishou.com/FpJONGH0Fh5v0_zEWyQew1lX6lbj",
+      "name": "谷歌"
+    },
+    {
+      "id": 25,
+      "logo": "https://images.suhuishou.com/FkdqDJeQ1GJv2NEBzVopdEEG0oay",
+      "name": "VERTU  威图"
+    },
+    {
+      "id": 23,
+      "logo": "https://images.suhuishou.com/Fry0PsblmElnIqNodkMQyoZTwPDF",
+      "name": "朵唯"
+    },
+    {
+      "id": 22,
+      "logo": "https://images.suhuishou.com/Fu1Pg-voOpEsATJc4WxqkYuCvkx5",
+      "name": "美图"
+    },
+    {
+      "id": 21,
+      "logo": "https://images.suhuishou.com/FhFBYv6kMK4fzW5HUp8nTwOSXS_y",
+      "name": "TCL"
+    },
+    {
+      "id": 20,
+      "logo": "https://images.suhuishou.com/FsAfxoPO5GdOkNOXPQ2YbDbR5iae",
+      "name": "中兴"
+    },
+    {
+      "id": 19,
+      "logo": "https://images.suhuishou.com/Fo0kdwZCTTt8TYiMaXqdDjQ_SZDF",
+      "name": "酷派"
+    },
+    {
+      "id": 17,
+      "logo": "https://images.suhuishou.com/Fp2v9zbMK8YO9UMSYFMj63AscufN",
+      "name": "乐视"
+    },
+    {
+      "id": 16,
+      "logo": "https://images.suhuishou.com/FnByn7PsCSQ-ss9gnvfNNGJY36DP",
+      "name": "LG"
+    },
+    {
+      "id": 15,
+      "logo": "https://images.suhuishou.com/FmMP7wXYZzOIZ-7hGfH9OaMQYIoY",
+      "name": "黑莓"
+    },
+    {
+      "id": 14,
+      "logo": "https://images.suhuishou.com/FnQqQRR-40cqVxrME1uenzO3n6yg",
+      "name": "锤子"
+    },
+    {
+      "id": 12,
+      "logo": "https://images.suhuishou.com/FkYm2Zbs5BYkZLDcd7RFB-y7WSit",
+      "name": "一加"
+    },
+    {
+      "id": 9,
+      "logo": "https://images.suhuishou.com/Fhk8Vl3o9D_EtRg_h1rq_RTpgovh",
+      "name": "联想"
+    },
+    {
+      "id": 8,
+      "logo": "https://images.suhuishou.com/FrC2X9CG6nOmAgcYnNuGUwHbVJOF",
+      "name": "摩托罗拉"
+    },
+    {
+      "id": 7,
+      "logo": "https://images.suhuishou.com/FlPF8uQ3InOifUCymCkKRJPIWQUY",
+      "name": "索尼"
+    },
+    {
+      "id": 5,
+      "logo": "https://images.suhuishou.com/FviFxgUmpwODRglGWC0al8Gn9euK",
+      "name": "诺基亚"
+    },
+    {
+      "id": 4,
+      "logo": "https://images.suhuishou.com/FqSTGvmCySbDiA0YU7MLP_l_LMBo",
+      "name": "HTC"
+    },
+    {
+      "id": 123,
+      "logo": "https://images.suhuishou.com/FnTJlnUaLNu3JxDdHZaZjctZfjPq",
+      "name": "其他品牌"
+    }
+  ],
+  "products": [
+    {
+      "goodsId": 13828,
+      "catId": 1,
+      "goodsName": "OPPO R11s Plus",
+      "originalImg": "http://images.suhuishou.com/FvTq3s0peNlvwDzWnkkn0o1Pusbq",
+      "shopPrice": 750
+    },
+    {
+      "goodsId": 10332,
+      "catId": 1,
+      "goodsName": "OPPO R11 plus",
+      "originalImg": "http://images.suhuishou.com/FvTq3s0peNlvwDzWnkkn0o1Pusbq",
+      "shopPrice": 600
+    },
+    {
+      "goodsId": 43,
+      "catId": 1,
+      "goodsName": "iPhone6s",
+      "originalImg": "http://images.suhuishou.com/Fjj86G5dqXb3p1WjoxpjQoEb1Giw",
+      "shopPrice": 1300
+    },
+    {
+      "goodsId": 16390,
+      "catId": 1,
+      "goodsName": "小米 MAX3",
+      "originalImg": "https://images.suhuishou.com/Fklpp8pbz6OqpLrazlKYguoJiJa8",
+      "shopPrice": 1000
+    },
+    {
+      "goodsId": 13827,
+      "catId": 1,
+      "goodsName": "OPPO R11s",
+      "originalImg": "https://image.suhuishou.com/attached/image/20190114/20190114141851_43429.jpg",
+      "shopPrice": 600
+    },
+    {
+      "goodsId": 42,
+      "catId": 1,
+      "goodsName": "iPhone6 plus",
+      "originalImg": "http://images.suhuishou.com/Focy0f0-Wug2ZDdvlXYQ5kGb-Hn2",
+      "shopPrice": 1200
+    },
+    {
+      "goodsId": 16322,
+      "catId": 1,
+      "goodsName": "OPPO A5",
+      "originalImg": "https://images.suhuishou.com/FphtGBwz8fdAxaYW200cPmZiB20Y",
+      "shopPrice": 520
+    },
+    {
+      "goodsId": 15357,
+      "catId": 1,
+      "goodsName": "小米 MIX2s",
+      "originalImg": "http://images.suhuishou.com/FiaShExM1-QTi9HWl3ktS8UIbUla",
+      "shopPrice": 1200
+    },
+    {
+      "goodsId": 10212,
+      "catId": 1,
+      "goodsName": "OPPO R11",
+      "originalImg": "http://images.suhuishou.com/FlNk-pi-v1P_MgPvig-c9kxie-Yj",
+      "shopPrice": 530
+    },
+    {
+      "goodsId": 41,
+      "catId": 1,
+      "goodsName": "iPhone6",
+      "originalImg": "http://images.suhuishou.com/FgYDkXCDfE09wIVml7P8DiG5YP11",
+      "shopPrice": 880
+    },
+    {
+      "goodsId": 15636,
+      "catId": 1,
+      "goodsName": "OPPO A3",
+      "originalImg": "http://images.suhuishou.com/Fm2Uoaw5fjoDxYquHmpbhFVhjDfV",
+      "shopPrice": 600
+    },
+    {
+      "goodsId": 2426,
+      "catId": 1,
+      "goodsName": "OPPO R9 plus",
+      "originalImg": "http://images.suhuishou.com/Fuf6qsFmQsHuotOHKNjPcTfgCkl1",
+      "shopPrice": 450
+    },
+    {
+      "goodsId": 2322,
+      "catId": 1,
+      "goodsName": "OPPO R9",
+      "originalImg": "http://images.suhuishou.com/FgL9jWpfwhyMxJRlo1aB0ILTZZX1",
+      "shopPrice": 330
+    },
+    {
+      "goodsId": 2150,
+      "catId": 1,
+      "goodsName": "iPhone SE",
+      "originalImg": "http://images.suhuishou.com/FtSUSxXXA78SZR-DTqavcz0u5CFQ",
+      "shopPrice": 680
+    },
+    {
+      "goodsId": 15363,
+      "catId": 1,
+      "goodsName": "OPPO A1",
+      "originalImg": "https://image.suhuishou.com/attached/image/20190114/20190114143307_74520.jpg",
+      "shopPrice": 330
+    },
+    {
+      "goodsId": 47,
+      "catId": 1,
+      "goodsName": "iPhone5s",
+      "originalImg": "http://images.suhuishou.com/FtSUSxXXA78SZR-DTqavcz0u5CFQ",
+      "shopPrice": 246
+    },
+    {
+      "goodsId": 15760,
+      "catId": 1,
+      "goodsName": "小米6X",
+      "originalImg": "http://images.suhuishou.com/Fq4kVri6lOog7FbtkonercQ-dMxs",
+      "shopPrice": 650
+    },
+    {
+      "goodsId": 40,
+      "catId": 1,
+      "goodsName": "iPhone5 ",
+      "originalImg": "https://images.suhuishou.com/FtIrP4EUhsK2d0ckg7eqUYcBF5fO",
+      "shopPrice": 100
+    },
+    {
+      "goodsId": 15531,
+      "catId": 1,
+      "goodsName": "华为 Mate RS",
+      "originalImg": "http://images.suhuishou.com/FtBjZYYiy6dXM_ayp9UR0qJzJY8u",
+      "shopPrice": 5000
+    },
+    {
+      "goodsId": 15361,
+      "catId": 1,
+      "goodsName": "华为 P20 Pro",
+      "originalImg": "https://image.suhuishou.com/attached/image/20190114/20190114134803_25251.jpg",
+      "shopPrice": 3400
+    }
+  ]
+}

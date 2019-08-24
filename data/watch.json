@@ -1,0 +1,197 @@
+{
+  "total": 25,
+  "brands": [
+    {
+      "id": 91,
+      "logo": "https://images.suhuishou.com/Fn1JqiYVbmL3ZjYutj8IsQMemIIX",
+      "name": "坤格"
+    },
+    {
+      "id": 90,
+      "logo": "https://images.suhuishou.com/FgZ8QOrzAmgWep-40e2mVIwHEGaM",
+      "name": "西铁城"
+    },
+    {
+      "id": 89,
+      "logo": "https://images.suhuishou.com/FnBej-4DiEAqWTD0MeFIOn8o_Ij6",
+      "name": "梅花"
+    },
+    {
+      "id": 88,
+      "logo": "https://images.suhuishou.com/FphHhsxH_UMVP_T68SwulcRqllLL",
+      "name": "美度"
+    },
+    {
+      "id": 87,
+      "logo": "https://images.suhuishou.com/Fk0C2BHDTr8zZU0IqElAlpgdAeWm",
+      "name": "帝舵"
+    },
+    {
+      "id": 86,
+      "logo": "https://images.suhuishou.com/FixJ06iMPybQ4q0oSfs6hls6QX74",
+      "name": "万宝龙"
+    },
+    {
+      "id": 85,
+      "logo": "https://images.suhuishou.com/Fo9pnI-KMIfMww_Tma27_c3H6ysl",
+      "name": "浪琴"
+    },
+    {
+      "id": 84,
+      "logo": "https://images.suhuishou.com/FkL9muBGzVuxk9-n_w-F2OJpuxDL",
+      "name": "天梭"
+    },
+    {
+      "id": 83,
+      "logo": "https://images.suhuishou.com/Fr_rELYwszFj87WcVmhwIWxARYNd",
+      "name": "瑞宝"
+    },
+    {
+      "id": 82,
+      "logo": "https://images.suhuishou.com/Fp3-F5BJPDJ6148MGyHg9SgSnCqP",
+      "name": "沛纳海"
+    },
+    {
+      "id": 81,
+      "logo": "https://images.suhuishou.com/Fn_tWZ1fAtbddZKDapnQyz07memx",
+      "name": "宇舶"
+    },
+    {
+      "id": 80,
+      "logo": "https://images.suhuishou.com/FiWd0QqgWn5tdGNZRbqqzMusxbEr",
+      "name": "真力时"
+    },
+    {
+      "id": 79,
+      "logo": "https://images.suhuishou.com/FjXC_2uQnTEp8MJlPobO-524LoWt",
+      "name": "宝格丽"
+    },
+    {
+      "id": 78,
+      "logo": "https://images.suhuishou.com/FrojVxqC26O75tRfjeemAHMpTeGw",
+      "name": "万国"
+    },
+    {
+      "id": 77,
+      "logo": "https://images.suhuishou.com/FqfEso9dMtec_qtleIXZnK4AzTlB",
+      "name": "欧米茄"
+    },
+    {
+      "id": 76,
+      "logo": "https://images.suhuishou.com/FslYjpvsMKIst_FqP0uQ6POWBqFD",
+      "name": "罗杰杜彼"
+    },
+    {
+      "id": 73,
+      "logo": "https://images.suhuishou.com/FsN_y9hQ2su87oRk9njBL6uFg1QF",
+      "name": "雅克德罗"
+    },
+    {
+      "id": 72,
+      "logo": "https://images.suhuishou.com/Ft1ihzsibdSAClmlg8UqHv-lQ0nF",
+      "name": "法穆兰"
+    },
+    {
+      "id": 71,
+      "logo": "https://images.suhuishou.com/FpmwYhDiNWPw7JcpE6mymtU8v_ab",
+      "name": "雅典"
+    },
+    {
+      "id": 69,
+      "logo": "https://images.suhuishou.com/FiCKoF05H6T-KvMpXNcyPPeOl0N9",
+      "name": "芝柏"
+    },
+    {
+      "id": 68,
+      "logo": "https://images.suhuishou.com/Fur3oEb2ahB5uiU6a_KXfhbuG87w",
+      "name": "格拉苏蒂"
+    },
+    {
+      "id": 67,
+      "logo": "https://images.suhuishou.com/FryPnjUo8v0AW5zd_wgHhjYfW-Hi",
+      "name": "伯爵"
+    },
+    {
+      "id": 66,
+      "logo": "https://images.suhuishou.com/Fie600sJO1YkjERfg5VQoreZgpLi",
+      "name": "爱彼"
+    },
+    {
+      "id": 65,
+      "logo": "https://images.suhuishou.com/Fjp4TiBo9Igw39Xl9ELx7m8yNO78",
+      "name": "积家"
+    },
+    {
+      "id": 64,
+      "logo": "https://images.suhuishou.com/Fqpbzk0iq1d7aFQCRQcKZAIK7eco",
+      "name": "江诗丹顿"
+    },
+    {
+      "id": 63,
+      "logo": "https://images.suhuishou.com/FpIWOUiVkLLhBEOqDSV1Fvb70Rt9",
+      "name": "宝珀"
+    },
+    {
+      "id": 62,
+      "logo": "https://images.suhuishou.com/Fk_ySyC9GI-6nVr548E9CHM475KN",
+      "name": "宝玑"
+    },
+    {
+      "id": 61,
+      "logo": "https://images.suhuishou.com/FtLqZ5o-qYKUsYKePihZTHNaBotH",
+      "name": "朗格"
+    },
+    {
+      "id": 60,
+      "logo": "https://images.suhuishou.com/FpJqqspFQEjJLcWG9Wa6RKqR9hlu",
+      "name": "卡地亚"
+    },
+    {
+      "id": 59,
+      "logo": "https://images.suhuishou.com/FjUW5NF0IXhEzqq0dwCfCrzUEG-X",
+      "name": "百达翡丽"
+    },
+    {
+      "id": 57,
+      "logo": "https://images.suhuishou.com/FhNACukaZGNfM9e8SajCDVM_8kfT",
+      "name": "劳力士"
+    }
+  ],
+  "products": [
+    {
+      "goodsId": 3071,
+      "catId": 15,
+      "goodsName": "梅花纤薄系列（女士）",
+      "originalImg": "https://image.suhuishou.com/attached/image/20180901/147064642800071.jpg",
+      "shopPrice": 9999
+    },
+    {
+      "goodsId": 3070,
+      "catId": 15,
+      "goodsName": "梅花纤薄系列",
+      "originalImg": "https://image.suhuishou.com/attached/image/20180901/1470646194000019.jpg",
+      "shopPrice": 9999
+    },
+    {
+      "goodsId": 3069,
+      "catId": 15,
+      "goodsName": "梅花空霸系列（情侣表）",
+      "originalImg": "https://image.suhuishou.com/attached/image/20180901/147064585500031.jpg",
+      "shopPrice": 9999
+    },
+    {
+      "goodsId": 3068,
+      "catId": 15,
+      "goodsName": "梅花空霸系列（女士）",
+      "originalImg": "https://image.suhuishou.com/attached/image/20180901/1470645780000214.jpg",
+      "shopPrice": 9999
+    },
+    {
+      "goodsId": 3067,
+      "catId": 15,
+      "goodsName": "梅花空霸系列",
+      "originalImg": "https://image.suhuishou.com/attached/image/20180901/147064564900063.jpg",
+      "shopPrice": 9999
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "total": 52,
+  "brands": [
+    {
+      "id": 1,
+      "logo": "https://images.suhuishou.com/FoLqQKEq7BXWUKBBw6LODCOVtfJW",
+      "name": "苹果"
+    },
+    {
+      "id": 2,
+      "logo": "https://images.suhuishou.com/FkqtBu_wNZfjOwpWwQBBq6TmV2oB",
+      "name": "三星"
+    },
+    {
+      "id": 6,
+      "logo": "https://images.suhuishou.com/FgOauMYotwGKN7h8o8vmnPNzlIeI",
+      "name": "华为"
+    },
+    {
+      "id": 3,
+      "logo": "https://images.suhuishou.com/FriwMv0Si_y0acN1HtFfAImiqiwa",
+      "name": "小米"
+    },
+    {
+      "id": 122,
+      "logo": "https://images.suhuishou.com/FgpbqM7oFebHC4rmtdxgHNJbIa2d",
+      "name": "机械革命"
+    },
+    {
+      "id": 121,
+      "logo": "https://images.suhuishou.com/Fl-4yjz9QPQ1sjGPkFBW_HlHqgxE",
+      "name": "Alienware"
+    },
+    {
+      "id": 120,
+      "logo": "https://images.suhuishou.com/FiJdJDTm1mBc_odYiz_5BcntkCO_",
+      "name": "雷神"
+    },
+    {
+      "id": 119,
+      "logo": "https://images.suhuishou.com/FkWCScwGJ_Djadtt0raTgvWGLjL0",
+      "name": "msi微星"
+    },
+    {
+      "id": 117,
+      "logo": "https://images.suhuishou.com/FhiFpWy65ZTlBMd4l6JRt2Gzyjfq",
+      "name": "清华同方"
+    },
+    {
+      "id": 116,
+      "logo": "httpss://images.suhuishou.com/Fm9AA3IaCH2jmKSWEDuSpCnqtTvv",
+      "name": "海尔"
+    },
+    {
+      "id": 115,
+      "logo": "httpss://images.suhuishou.com/FrqLOabNfGz0qii4UxH7iV4Qf27M",
+      "name": "方正"
+    },
+    {
+      "id": 114,
+      "logo": "httpss://images.suhuishou.com/Fi5izfapWJf3FQ6Z0Kv_nsmVDY4P",
+      "name": "主齿轮Maingear"
+    },
+    {
+      "id": 105,
+      "logo": "https://images.suhuishou.com/Fni-k3fAGcllGTDEAOlV3JwygOdl",
+      "name": "技嘉"
+    },
+    {
+      "id": 104,
+      "logo": "https://images.suhuishou.com/FguzFAGNfKnqnCsm4M3Q9tlMcqVo",
+      "name": "镭波"
+    },
+    {
+      "id": 100,
+      "logo": "https://images.suhuishou.com/Fi7qCXFPsyoWC0Ivr8eNSSYbNgxe",
+      "name": "海鲅"
+    },
+    {
+      "id": 99,
+      "logo": "https://images.suhuishou.com/FnmGSlWHc1LUTdHWcVSe9ZANE0AW",
+      "name": "炫龙"
+    },
+    {
+      "id": 98,
+      "logo": "httpss://images.suhuishou.com/FoHq-NM8JVliZvFKmkF0OLKdPmr_",
+      "name": "幻影战士"
+    },
+    {
+      "id": 97,
+      "logo": "https://images.suhuishou.com/FregwXnOvDVmjL5HtUfXpZDTnh_J",
+      "name": "魔法师"
+    },
+    {
+      "id": 95,
+      "logo": "https://images.suhuishou.com/Fni-k3fAGcllGTDEAOlV3JwygOdl",
+      "name": "AORUS"
+    },
+    {
+      "id": 94,
+      "logo": "https://images.suhuishou.com/FjFmGPOZdKv37YoHZeZ9OJfAZDo5",
+      "name": "微软"
+    },
+    {
+      "id": 93,
+      "logo": "https://images.suhuishou.com/Fl845iJqqlIDWsG1lHGgLb-hmhiE",
+      "name": "东芝"
+    },
+    {
+      "id": 92,
+      "logo": "https://images.suhuishou.com/FtMScawcZhYhn_FvCqrj6A6cYcor",
+      "name": "火影"
+    },
+    {
+      "id": 58,
+      "logo": "https://images.suhuishou.com/Fuk6M9emYm6PF0sZ48EC--YDG_zN",
+      "name": "机械师"
+    },
+    {
+      "id": 56,
+      "logo": "https://images.suhuishou.com/FvMquVrDPqS_-a8qv7fBOzCJVO1U",
+      "name": "惠普"
+    },
+    {
+      "id": 55,
+      "logo": "https://images.suhuishou.com/FitVXhZCIAG7kH45PRschetPNKxT",
+      "name": "雷蛇"
+    },
+    {
+      "id": 54,
+      "logo": "https://images.suhuishou.com/Fhx_S-o7DXjiv4V7ccZy15vhooa-",
+      "name": "麦本本"
+    },
+    {
+      "id": 53,
+      "logo": "https://images.suhuishou.com/Fo8z2UvEtXu4TxZTGJQlgQvVuApz",
+      "name": "神舟"
+    },
+    {
+      "id": 52,
+      "logo": "https://images.suhuishou.com/Fi_aIoykPpY5RZ9KDA8xMrzNMq6G",
+      "name": "宏基"
+    },
+    {
+      "id": 51,
+      "logo": "https://images.suhuishou.com/FsDMvtRm0k3vx0Bm3gk_hzSoMvfj",
+      "name": "戴尔"
+    },
+    {
+      "id": 50,
+      "logo": "https://images.suhuishou.com/FkCCy3dpryJ-FhsJv5S_ky063ncy",
+      "name": "华硕"
+    },
+    {
+      "id": 30,
+      "logo": "https://images.suhuishou.com/Flz-fx8eXyskqM6NO-j_nMHB347y",
+      "name": "松下"
+    },
+    {
+      "id": 16,
+      "logo": "https://images.suhuishou.com/FnByn7PsCSQ-ss9gnvfNNGJY36DP",
+      "name": "LG"
+    },
+    {
+      "id": 9,
+      "logo": "https://images.suhuishou.com/Fhk8Vl3o9D_EtRg_h1rq_RTpgovh",
+      "name": "联想"
+    },
+    {
+      "id": 7,
+      "logo": "https://images.suhuishou.com/FlPF8uQ3InOifUCymCkKRJPIWQUY",
+      "name": "索尼"
+    },
+    {
+      "id": 103,
+      "logo": "https://images.suhuishou.com/FjtijxT-jU8J_O1hfzybyCcANYrR",
+      "name": "Terrans Force"
+    },
+    {
+      "id": 123,
+      "logo": "https://images.suhuishou.com/FnTJlnUaLNu3JxDdHZaZjctZfjPq",
+      "name": "其他品牌"
+    }
+  ],
+  "products": [
+    {
+      "goodsId": 3280,
+      "catId": 19,
+      "goodsName": "苹果 09年 17寸 MacBook Pro(A1297)",
+      "originalImg": "https://image.suhuishou.com/attached/image/20181226/20181226164110_18167.jpg",
+      "shopPrice": 900
+    },
+    {
+      "goodsId": 3279,
+      "catId": 19,
+      "goodsName": "苹果 08年 15寸 MacBook Pro(A1286)",
+      "originalImg": "https://image.suhuishou.com/attached/image/20181226/20181226164755_85541.jpg",
+      "shopPrice": 220
+    },
+    {
+      "goodsId": 3277,
+      "catId": 19,
+      "goodsName": "苹果 11年 17寸 MacBook Pro（A1297）",
+      "originalImg": "https://image.suhuishou.com/attached/image/20181226/20181226163145_84181.jpg",
+      "shopPrice": 1420
+    },
+    {
+      "goodsId": 3276,
+      "catId": 19,
+      "goodsName": "苹果 09年 15寸 MacBook Pro(A1286)",
+      "originalImg": "https://image.suhuishou.com/attached/image/20181226/20181226164250_74324.jpg",
+      "shopPrice": 700
+    },
+    {
+      "goodsId": 3275,
+      "catId": 19,
+      "goodsName": "苹果 塑料壳 09年 13寸 MacBook(A1181)",
+      "originalImg": "https://image.suhuishou.com/attached/image/20181226/20181226173239_38119.jpg",
+      "shopPrice": 120
+    },
+    {
+      "goodsId": 3274,
+      "catId": 19,
+      "goodsName": "苹果 08年 MacBook Air(A1304)",
+      "originalImg": "https://image.suhuishou.com/attached/image/20181226/20181226175648_97373.jpg",
+      "shopPrice": 440
+    },
+    {
+      "goodsId": 3273,
+      "catId": 19,
+      "goodsName": "苹果 塑料壳 10年 13寸 MacBook(A1342)",
+      "originalImg": "https://image.suhuishou.com/attached/image/20181226/20181226174131_89265.jpg",
+      "shopPrice": 300
+    },
+    {
+      "goodsId": 3272,
+      "catId": 19,
+      "goodsName": "苹果 16年 12寸 MacBook（A1534）",
+      "originalImg": "https://image.suhuishou.com/attached/image/20181226/20181226135227_36488.jpg",
+      "shopPrice": 3650
+    },
+    {
+      "goodsId": 3271,
+      "catId": 19,
+      "goodsName": "苹果 Retina屏 12年 13寸 MacBook Pro(A1425)",
+      "originalImg": "https://image.suhuishou.com/attached/image/20181226/20181226162936_17722.jpg",
+      "shopPrice": 2570
+    },
+    {
+      "goodsId": 3270,
+      "catId": 19,
+      "goodsName": "苹果 Retina屏 12年 15寸 MacBook Pro(A1398)",
+      "originalImg": "https://image.suhuishou.com/attached/image/20181226/20181226162743_71316.jpg",
+      "shopPrice": 3450
+    },
+    {
+      "goodsId": 3269,
+      "catId": 19,
+      "goodsName": "苹果 铝壳 08年 13寸 MacBook(A1278)",
+      "originalImg": "https://image.suhuishou.com/attached/image/20181226/20181226175253_29133.jpg",
+      "shopPrice": 720
+    },
+    {
+      "goodsId": 3268,
+      "catId": 19,
+      "goodsName": "苹果 普通屏 12年 15寸 MacBook Pro(A1286)",
+      "originalImg": "https://image.suhuishou.com/attached/image/20181226/20181226162805_39121.jpg",
+      "shopPrice": 1550
+    },
+    {
+      "goodsId": 3267,
+      "catId": 19,
+      "goodsName": "苹果 10年 15寸 MacBook Pro(A1286)",
+      "originalImg": "https://image.suhuishou.com/attached/image/20181226/20181226163747_59625.jpg",
+      "shopPrice": 1050
+    },
+    {
+      "goodsId": 3266,
+      "catId": 19,
+      "goodsName": "苹果 11年 15寸 MacBook Pro(A1286)",
+      "originalImg": "https://image.suhuishou.com/attached/image/20181226/20181226163308_54465.jpg",
+      "shopPrice": 1350
+    },
+    {
+      "goodsId": 3265,
+      "catId": 19,
+      "goodsName": "苹果 13年 15寸 MacBook Pro(A1398)",
+      "originalImg": "https://image.suhuishou.com/attached/image/20181226/20181226162337_98109.jpg",
+      "shopPrice": 3070
+    },
+    {
+      "goodsId": 3264,
+      "catId": 19,
+      "goodsName": "苹果 14年 11寸 MacBook Air(A1465)",
+      "originalImg": "https://image.suhuishou.com/attached/image/20181226/20181226155559_25842.jpg",
+      "shopPrice": 1950
+    },
+    {
+      "goodsId": 3263,
+      "catId": 19,
+      "goodsName": "苹果 11年 13寸 MacBook Air （A1369）",
+      "originalImg": "https://image.suhuishou.com/attached/image/20181226/20181226160408_21943.jpg",
+      "shopPrice": 750
+    },
+    {
+      "goodsId": 3262,
+      "catId": 19,
+      "goodsName": "苹果 12年 11寸 MacBook Air(A1465)",
+      "originalImg": "https://image.suhuishou.com/attached/image/20181226/20181226160243_61133.jpg",
+      "shopPrice": 880
+    },
+    {
+      "goodsId": 3261,
+      "catId": 19,
+      "goodsName": "苹果 13年 13寸 MacBook Air(A1466)",
+      "originalImg": "https://image.suhuishou.com/attached/image/20181226/20181226155848_88924.jpg",
+      "shopPrice": 1500
+    },
+    {
+      "goodsId": 3260,
+      "catId": 19,
+      "goodsName": "苹果 12年 13寸 MacBook Air(A1466)",
+      "originalImg": "https://image.suhuishou.com/attached/image/20181226/20181226160132_74864.jpg",
+      "shopPrice": 1570
+    }
+  ]
+}

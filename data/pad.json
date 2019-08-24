@@ -1,0 +1,172 @@
+{
+  "total": 52,
+  "brands": [
+    {
+      "id": 1,
+      "logo": "https://images.suhuishou.com/FoLqQKEq7BXWUKBBw6LODCOVtfJW",
+      "name": "苹果"
+    },
+    {
+      "id": 2,
+      "logo": "https://images.suhuishou.com/FkqtBu_wNZfjOwpWwQBBq6TmV2oB",
+      "name": "三星"
+    },
+    {
+      "id": 6,
+      "logo": "https://images.suhuishou.com/FgOauMYotwGKN7h8o8vmnPNzlIeI",
+      "name": "华为"
+    },
+    {
+      "id": 3,
+      "logo": "https://images.suhuishou.com/FriwMv0Si_y0acN1HtFfAImiqiwa",
+      "name": "小米"
+    },
+    {
+      "id": 9,
+      "logo": "https://images.suhuishou.com/Fhk8Vl3o9D_EtRg_h1rq_RTpgovh",
+      "name": "联想"
+    }
+  ],
+  "products": [
+    {
+      "goodsId": 384,
+      "catId": 2,
+      "goodsName": "iPad air",
+      "originalImg": "https://image.suhuishou.com/attached/image/20190226/20190226200845_37580.jpg",
+      "shopPrice": 1050
+    },
+    {
+      "goodsId": 2238,
+      "catId": 2,
+      "goodsName": "ipad pro 9.7英寸",
+      "originalImg": "https://image.suhuishou.com/attached/image/20190226/20190226202612_69262.jpg",
+      "shopPrice": 1850
+    },
+    {
+      "goodsId": 398,
+      "catId": 2,
+      "goodsName": "iPad air2",
+      "originalImg": "https://image.suhuishou.com/attached/image/20190226/20190226201831_63250.jpg",
+      "shopPrice": 1490
+    },
+    {
+      "goodsId": 406,
+      "catId": 2,
+      "goodsName": "iPad pro 12.9",
+      "originalImg": "https://image.suhuishou.com/attached/image/20190226/20190226202144_29003.jpg",
+      "shopPrice": 2200
+    },
+    {
+      "goodsId": 20226,
+      "catId": 2,
+      "goodsName": "iPad 四代",
+      "originalImg": "https://image.suhuishou.com/attached/image/20190226/20190226155132_63567.jpg",
+      "shopPrice": 630
+    },
+    {
+      "goodsId": 19933,
+      "catId": 2,
+      "goodsName": "iPad mini 5（2019年款）",
+      "originalImg": "https://image.suhuishou.com/attached/image/20190321/20190321111037_79673.jpg",
+      "shopPrice": 2000
+    },
+    {
+      "goodsId": 19927,
+      "catId": 2,
+      "goodsName": "iPad air 3 （2019年款）",
+      "originalImg": "https://image.suhuishou.com/attached/image/20190320/20190320165955_59913.jpg",
+      "shopPrice": 2000
+    },
+    {
+      "goodsId": 17889,
+      "catId": 2,
+      "goodsName": "苹果iPad Pro 2018款（12.9英寸）",
+      "originalImg": "https://image.suhuishou.com/attached/image/20181130/20181130143646_26441.jpg",
+      "shopPrice": 4500
+    },
+    {
+      "goodsId": 17790,
+      "catId": 2,
+      "goodsName": "苹果 iPad Pro 2018款（/11英寸）",
+      "originalImg": "https://image.suhuishou.com/attached/image/20181118/20181118135422_18977.jpg",
+      "shopPrice": 4500
+    },
+    {
+      "goodsId": 15356,
+      "catId": 2,
+      "goodsName": "苹果 iPad 2018新款 (6th gen)",
+      "originalImg": "https://image.suhuishou.com/attached/image/20181015/20181015170602_49765.jpg",
+      "shopPrice": 1820
+    },
+    {
+      "goodsId": 12241,
+      "catId": 2,
+      "goodsName": "iPad Pro（12.9寸2017年新款）",
+      "originalImg": "https://image.suhuishou.com/attached/image/20190226/20190226203738_39572.jpg",
+      "shopPrice": 3000
+    },
+    {
+      "goodsId": 12240,
+      "catId": 2,
+      "goodsName": "iPad Pro（10.5寸）",
+      "originalImg": "https://image.suhuishou.com/attached/image/20190226/20190226203634_43086.jpg",
+      "shopPrice": 2700
+    },
+    {
+      "goodsId": 9990,
+      "catId": 2,
+      "goodsName": "Apple iPad(iPad 5th gen)",
+      "originalImg": "https://images.suhuishou.com/Fs6VcF4-j6aFy6nrfNj5oiJn7wmQ",
+      "shopPrice": 1530
+    },
+    {
+      "goodsId": 2398,
+      "catId": 2,
+      "goodsName": "iPad mini 2 ",
+      "originalImg": "https://image.suhuishou.com/attached/image/20190226/20190226203427_44007.jpg",
+      "shopPrice": 800
+    },
+    {
+      "goodsId": 2397,
+      "catId": 2,
+      "goodsName": "iPad 6",
+      "originalImg": "https://image.suhuishou.com/attached/image/20190514/20190514163742_27877.jpg",
+      "shopPrice": 1490
+    },
+    {
+      "goodsId": 2396,
+      "catId": 2,
+      "goodsName": "iPad 5代",
+      "originalImg": "https://image.suhuishou.com/attached/image/20190529/20190529093612_23681.jpg",
+      "shopPrice": 1050
+    },
+    {
+      "goodsId": 421,
+      "catId": 2,
+      "goodsName": "iPad mini4",
+      "originalImg": "https://images.suhuishou.com/FnRJqpTa1dMHi3zXDhHLUG5wMXHq",
+      "shopPrice": 1400
+    },
+    {
+      "goodsId": 418,
+      "catId": 2,
+      "goodsName": "iPad mini3",
+      "originalImg": "https://image.suhuishou.com/attached/image/20190516/20190516094740_53068.jpg",
+      "shopPrice": 1050
+    },
+    {
+      "goodsId": 414,
+      "catId": 2,
+      "goodsName": "iPad mini 1",
+      "originalImg": "https://image.suhuishou.com/attached/image/20190226/20190226202311_48828.jpg",
+      "shopPrice": 420
+    },
+    {
+      "goodsId": 376,
+      "catId": 2,
+      "goodsName": "iPad 4代",
+      "originalImg": "https://image.suhuishou.com/attached/image/20190226/20190226155132_63567.jpg",
+      "shopPrice": 650
+    }
+  ]
+}
